@@ -1,22 +1,19 @@
 {
-  "name": "electron-quick-start",
+  "name": "eReader",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "An electron application to download and read ebooks",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/LZ0211/eReader/",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Wedge"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "LZ0211",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "1.7.5"
   }
 }
